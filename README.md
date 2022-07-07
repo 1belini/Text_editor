@@ -3,4 +3,4 @@
 
 
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/1belini/Text_editor/blob/master/Screenshot_20220707_104254.png)
